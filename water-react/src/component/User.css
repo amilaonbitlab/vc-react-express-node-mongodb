@@ -1,0 +1,9 @@
+.User {
+    text-align: center;
+}
+
+.User .row .col {
+    padding: 1px;
+    border: 1px;
+    text-align: left !important;
+}
