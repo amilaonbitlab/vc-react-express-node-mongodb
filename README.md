@@ -12,14 +12,14 @@ There are two sub project
     npm install 
     npm start 
 
-Go To Chrom Browser http://localhost:3001
+Url : http://localhost:3001
 
 ### Start Front-end
     cd water-react
     npm install 
     npm start 
 
-Go To Chrom Browser http://localhost:3000 
+Go To Chrome Browser http://localhost:3000 
 
 
 NOTE : 1st Start Backend and next Try Frontend
